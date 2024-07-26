@@ -9,4 +9,4 @@ const person = {
     }
 };
 
-person.sayHello("Russia");
+ 
